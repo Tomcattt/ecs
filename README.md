@@ -2,9 +2,9 @@
 On top
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-### Map
+#### Map
 * [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-### Timelines
+#### Timelines
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [États-Unis D'Amériques](https://tomcattt.github.io/eua)
 * [France](https://tomcattt.github.io/france)
@@ -13,8 +13,8 @@ On top
 * [Matières premières](https://tomcattt.github.io/mpremieres)
 * [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
 
-### **Cours**
-#### Indispensables
+#### **Cours**
+##### Indispensables
 	- Pays Emergents					% imprimé
 	- Villes						% imprimé
 	- Migrations  						% imprimé
@@ -24,7 +24,7 @@ On top
 	- Mers et Espaces Maritimes				% imprimé
 	- France						50%
 		
-#### Complémentaires
+##### Complémentaires
 	- Agriculture et Matières Premières Agricoles
 	- Eau
 	- Environnement et Développement Durable
@@ -34,14 +34,14 @@ On top
 	- Mondialisation, Inégalités et Etat
 	- Frontières et Mondialisation
 		
-#### Continent
+##### Continent
 	- Afrique						30%
 	- Asie							90%
 	- Amérique latine					90%
 	- Europe						[En Cours]
 	- Etats-Unis						90%
 	- Moyen-Orient						90%
-### **Ressources**
+#### **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 ## :chart_with_upwards_trend: **Mathématiques**
@@ -50,7 +50,7 @@ On top
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [UPS](https://concours-maths-cpge.fr)
 
-### Chapitres
+#### Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
 - [x] Chapitre 2 : Variables aléatoires discrètes. Espérance conditionnelle
 - [x] Chapitre 3 : Rappels et compléments d'algèbre linéaire
