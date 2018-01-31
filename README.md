@@ -41,7 +41,9 @@ On top
 	- Europe						[En Cours]
 	- Etats-Unis						90%
 	- Moyen-Orient						90%
-
+#### **Ressources**
+*[Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
+*[DiploWeb](https://www.diploweb.com)
 ### :chart_with_upwards_trend: **Mathématiques**
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
