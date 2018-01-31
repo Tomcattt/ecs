@@ -1,10 +1,10 @@
 # :mortar_board: **ECS Quentin**
 On top
 
-# :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-## Map
+## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
+### Map
 * [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-## Timelines
+### Timelines
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [États-Unis D'Amériques](https://tomcattt.github.io/eua)
 * [France](https://tomcattt.github.io/france)
@@ -13,8 +13,8 @@ On top
 * [Matières premières](https://tomcattt.github.io/mpremieres)
 * [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
 
-## **Cours**
-### Indispensables
+### **Cours**
+#### Indispensables
 	- Pays Emergents					% imprimé
 	- Villes						% imprimé
 	- Migrations  						% imprimé
