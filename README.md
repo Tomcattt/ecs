@@ -2,38 +2,26 @@
 On top
 
 ### Timelines
-[Amérique Latine](https://tomcattt.github.io/al)
-
-[États-Unis D'Amériques](https://tomcattt.github.io/eua)
-
-[France](https://tomcattt.github.io/france)
-
-[Asie](https://tomcattt.github.io/asie)
-
-[Moyen Orient](https://tomcattt.github.io/mo)
-
-[Matières premières](https://tomcattt.github.io/mpremieres)
-
-[Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
+- [x] [Amérique Latine](https://tomcattt.github.io/al)
+- [x] [États-Unis D'Amériques](https://tomcattt.github.io/eua)
+- [x] [France](https://tomcattt.github.io/france)
+- [x] [Asie](https://tomcattt.github.io/asie)
+- [x] [Moyen Orient](https://tomcattt.github.io/mo)
+- [x] [Matières premières](https://tomcattt.github.io/mpremieres)
+- [x] [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
 
 ### Liens
 #### Mathématiques
-[Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
-
-[JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
-
-[Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
-
-[UPS](https://concours-maths-cpge.fr)
+- [x] [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
+- [x] [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
+- [x] [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
+- [x] [UPS](https://concours-maths-cpge.fr)
 
 #### Anglais
-[HIR](http://hir.harvard.edu)
-
-[MTR](https://www.technologyreview.com/the-download/)
-
-[The Economist](https://www.economist.com)
+- [x] [HIR](http://hir.harvard.edu)
+- [x] [MTR](https://www.technologyreview.com/the-download/)
+- [x] [The Economist](https://www.economist.com)
 
 #### Autres
-[Les Ernest](http://www.les-ernest.fr)
-
-[BCE](http://www.concours-bce.com)
+- [x] [Les Ernest](http://www.les-ernest.fr)
+- [x] [BCE](http://www.concours-bce.com)
