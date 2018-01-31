@@ -3,7 +3,7 @@ On top
 
 ### Timelines
 [Amérique Latine](https://tomcattt.github.io/al)
-[États-Unis D'Amériques](https://tomcattt.github.io/usa)
+[États-Unis D'Amériques](https://tomcattt.github.io/eua)
 [France](https://tomcattt.github.io/france)
 [Asie](https://tomcattt.github.io/asie)
 [Moyen Orient](https://tomcattt.github.io/mo)
