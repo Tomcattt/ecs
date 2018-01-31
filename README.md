@@ -1,7 +1,7 @@
-# ECS
+# :mortar_board: ECS
 On top
 
-### Histoire Géographie Géopolitique du Monde Contemporain
+### :earth_asia: Histoire Géographie Géopolitique du Monde Contemporain
 #### Timelines
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [États-Unis D'Amériques](https://tomcattt.github.io/eua)
@@ -36,11 +36,11 @@ On top
 		- Afrique						30%
 		- Asie							90%
 		- Amérique latine					90%
-		- Europe						% imprimé
+		- Europe						[En Cours]
 		- Etats-Unis						90%
 		- Moyen-Orient						90%
 
-### Mathématiques
+### :chart_with_upwards_trend: Mathématiques
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
@@ -67,7 +67,7 @@ On top
 - [ ] Chapitre 18 : Estimation par intervalle de confiance
 - [ ] Chapitre 19 : Optimisation sous contraintes
 
-#### Informatique
+### :computer: Informatique
 - [x] TP 1 : Manipulation de matrices
 - [x] TP 2 : Simulation de lois discrètes
 - [ ] TP 3 : Statistiques à une variable
@@ -78,11 +78,11 @@ On top
 - [ ] TP 8 : Fonctions de plusieurs variables
 - [ ] TP 9 : Estimation ponctuelle et par intervalle
 
-#### Anglais
+#### :us: Anglais
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
 
-#### Autres
+#### :blue_book: Autres
 * [Les Ernest](http://www.les-ernest.fr)
 * [BCE](http://www.concours-bce.com)
