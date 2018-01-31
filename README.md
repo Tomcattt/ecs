@@ -6,7 +6,7 @@ On top
  
 [États-Unis D'Amériques](https://tomcattt.github.io/usa)
 
-🇫[France](https://tomcattt.github.io/france)
+[France](https://tomcattt.github.io/france)
 
 [Asie](https://tomcattt.github.io/asie)
 
