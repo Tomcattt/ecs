@@ -1,7 +1,7 @@
 # :mortar_board: **ECS**
 On top
 
-### :earth_asia: Histoire Géographie Géopolitique du Monde Contemporain
+### :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Timelines
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [États-Unis D'Amériques](https://tomcattt.github.io/eua)
@@ -11,7 +11,7 @@ On top
 * [Matières premières](https://tomcattt.github.io/mpremieres)
 * [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
 
-#### Cours
+#### **Cours**
 ##### Indispensables
 	- Pays Emergents					% imprimé
 	- Villes						% imprimé
@@ -40,7 +40,7 @@ On top
 	- Etats-Unis						90%
 	- Moyen-Orient						90%
 
-### :chart_with_upwards_trend: Mathématiques
+### :chart_with_upwards_trend: **Mathématiques**
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
@@ -78,11 +78,11 @@ On top
 - [ ] TP 8 : Fonctions de plusieurs variables
 - [ ] TP 9 : Estimation ponctuelle et par intervalle
 
-#### :us: Anglais
+#### :us: **Anglais**
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
 
-#### :blue_book: Autres
+#### :blue_book: **Autres**
 * [Les Ernest](http://www.les-ernest.fr)
 * [BCE](http://www.concours-bce.com)
