@@ -13,32 +13,32 @@ On top
 
 #### Cours
 ##### Indispensables
-		- Pays Emergents					% imprimé
-		- Villes						% imprimé
-		- Migrations  						% imprimé
-		- Matières Premières					90%
-		- Pétrole et Énergie					90%		
-		- Commerce International				% imprimé
-		- Mers et Espaces Maritimes				% imprimé
-		- France						50%
+	- Pays Emergents					% imprimé
+	- Villes						% imprimé
+	- Migrations  						% imprimé
+	- Matières Premières					90%
+	- Pétrole et Énergie					90%		
+	- Commerce International				% imprimé
+	- Mers et Espaces Maritimes				% imprimé
+	- France						50%
 		
 ##### Complémentaires
-		- Agriculture et Matières Premières Agricoles
-		- Eau
-		- Environnement et Développement Durable
-		- Dynamiques Démographiques
-		- Transports
-		- Tiers-Monde
-		- Mondialisation, Inégalités et Etat
-		- Frontières et Mondialisation
+	- Agriculture et Matières Premières Agricoles
+	- Eau
+	- Environnement et Développement Durable
+	- Dynamiques Démographiques
+	- Transports
+	- Tiers-Monde
+	- Mondialisation, Inégalités et Etat
+	- Frontières et Mondialisation
 		
 ##### Continent
-		- Afrique						30%
-		- Asie							90%
-		- Amérique latine					90%
-		- Europe						[En Cours]
-		- Etats-Unis						90%
-		- Moyen-Orient						90%
+	- Afrique						30%
+	- Asie							90%
+	- Amérique latine					90%
+	- Europe						[En Cours]
+	- Etats-Unis						90%
+	- Moyen-Orient						90%
 
 ### :chart_with_upwards_trend: Mathématiques
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
