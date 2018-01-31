@@ -1,10 +1,10 @@
 # :mortar_board: **ECS Quentin**
 On top
 
-### :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-#### Map
+# :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
+## Map
 * [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-#### Timelines
+## Timelines
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [États-Unis D'Amériques](https://tomcattt.github.io/eua)
 * [France](https://tomcattt.github.io/france)
@@ -13,8 +13,8 @@ On top
 * [Matières premières](https://tomcattt.github.io/mpremieres)
 * [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
 
-#### **Cours**
-##### Indispensables
+## **Cours**
+### Indispensables
 	- Pays Emergents					% imprimé
 	- Villes						% imprimé
 	- Migrations  						% imprimé
@@ -24,7 +24,7 @@ On top
 	- Mers et Espaces Maritimes				% imprimé
 	- France						50%
 		
-##### Complémentaires
+### Complémentaires
 	- Agriculture et Matières Premières Agricoles
 	- Eau
 	- Environnement et Développement Durable
@@ -34,23 +34,23 @@ On top
 	- Mondialisation, Inégalités et Etat
 	- Frontières et Mondialisation
 		
-##### Continent
+### Continent
 	- Afrique						30%
 	- Asie							90%
 	- Amérique latine					90%
 	- Europe						[En Cours]
 	- Etats-Unis						90%
 	- Moyen-Orient						90%
-#### **Ressources**
+## **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
-### :chart_with_upwards_trend: **Mathématiques**
+# :chart_with_upwards_trend: **Mathématiques**
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [UPS](https://concours-maths-cpge.fr)
 
-#### Chapitres
+## Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
 - [x] Chapitre 2 : Variables aléatoires discrètes. Espérance conditionnelle
 - [x] Chapitre 3 : Rappels et compléments d'algèbre linéaire
@@ -71,7 +71,7 @@ On top
 - [ ] Chapitre 18 : Estimation par intervalle de confiance
 - [ ] Chapitre 19 : Optimisation sous contraintes
 
-### :computer: Informatique
+# :computer: Informatique
 - [x] TP 1 : Manipulation de matrices
 - [x] TP 2 : Simulation de lois discrètes
 - [ ] TP 3 : Statistiques à une variable
@@ -82,14 +82,14 @@ On top
 - [ ] TP 8 : Fonctions de plusieurs variables
 - [ ] TP 9 : Estimation ponctuelle et par intervalle
 
-#### :us: **Anglais**
+# :us: **Anglais**
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
 
-#### :blue_book: **Autres**
+# :blue_book: **Autres**
 * [Les Ernest](http://www.les-ernest.fr)
 * [BCE](http://www.concours-bce.com)
 
-#### :musical_note: **Chill**
+# :musical_note: **Chill**
 * [?](https://youtu.be/PPQzctf_wIk)
