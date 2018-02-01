@@ -45,6 +45,8 @@ On top
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 ## :chart_with_upwards_trend: **Mathématiques**
+* [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
+* [La Totale] (http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [UPS](https://concours-maths-cpge.fr)
@@ -100,6 +102,7 @@ On top
 ## :blue_book: **Autres**
 * [Les Ernest](http://www.les-ernest.fr)
 * [BCE](http://www.concours-bce.com)
+* [Timeline Philosophie](https://tomcattt.github.io/philosophie)
 
 ## :musical_note: **Chill**
 * [?](https://youtu.be/PPQzctf_wIk)
