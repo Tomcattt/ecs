@@ -46,7 +46,7 @@ On top
 * [DiploWeb](https://www.diploweb.com)
 ## :chart_with_upwards_trend: **Mathématiques**
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
-* [La Totale] (http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
+* [La Totale](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [UPS](https://concours-maths-cpge.fr)
