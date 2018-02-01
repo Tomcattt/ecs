@@ -45,10 +45,9 @@ On top
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 ## :chart_with_upwards_trend: **Mathématiques**
+* [LA TOTALE](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
-* [La Totale](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
-* [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 - [ ] Sommation
