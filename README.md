@@ -45,10 +45,20 @@ On top
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 ## :chart_with_upwards_trend: **Mathématiques**
-* [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [UPS](https://concours-maths-cpge.fr)
+* [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
+- [ ] Sommation
+- [ ] Formule d'inversion de Pascal
+- [ ] Loi binomiale conditionnée
+- [ ] Fonction génératrice
+- [ ] Formule du crible
+- [ ] Changement de variable en calcul intégral
+- [ ] Fonctions convexes
+- [ ] Trace et transposée de matrice
+- [ ] Équivalents et développements de suites
+- [ ] Repère euclidien non orthonormé
 
 #### Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
