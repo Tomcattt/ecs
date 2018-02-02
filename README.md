@@ -47,7 +47,7 @@ On top
 
 ## **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
-* [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MÉCANISME_ET_THEORIE_DES_PASSIONS.pdf)
+* [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
 
 ## :chart_with_upwards_trend: **Mathématiques**
