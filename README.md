@@ -44,9 +44,21 @@ On top
 #### **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
+
+## :trollface: **Culture Générale**
+* [Timeline Philosophie](https://tomcattt.github.io/philosophie)
+### Le Corps
+* [ ] Chapitre 1 : Au comencement était Platon
+* [ ] Chapitre 2 : Le matérialisme de l'Antiquité (Épicure et Lucrèce)
+* [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
+* [ ] Chapitre 4 : Existentialisme et phénoménologie
+* [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
+
 ## :chart_with_upwards_trend: **Mathématiques**
-* [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
+* [LA TOTALE](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
+* [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
+* [Alain Troesch](http://alain.troesch.free.fr/index2012.html)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 - [ ] Sommation
