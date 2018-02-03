@@ -58,6 +58,7 @@ On top
 * [LA TOTALE](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
+* [Alain Troesch](http://alain.troesch.free.fr/index2012.html)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 - [ ] Sommation
