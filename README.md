@@ -8,6 +8,7 @@ On top
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [États-Unis D'Amériques](https://tomcattt.github.io/eua)
 * [France](https://tomcattt.github.io/france)
+* [Europe](https://tomcattt.github.io/europe)
 * [Asie](https://tomcattt.github.io/asie)
 * [Moyen Orient](https://tomcattt.github.io/mo)
 * [Matières premières](https://tomcattt.github.io/mpremieres)
