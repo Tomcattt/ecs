@@ -97,7 +97,7 @@ On top
 ## :computer: Informatique
 - [x] TP 1 : Manipulation de matrices
 - [x] TP 2 : Simulation de lois discrètes
-- [ ] TP 3 : Statistiques à une variable
+- [X] TP 3 : Statistiques à une variable
 - [ ] TP 4 : Chaînes de Markov I
 - [ ] TP 5 : Chaînes de Markov II
 - [ ] TP 6 : Statistiques bivariées
