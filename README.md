@@ -98,8 +98,8 @@ On top
 - [x] TP 1 : Manipulation de matrices
 - [x] TP 2 : Simulation de lois discrètes
 - [X] TP 3 : Statistiques à une variable
-- [ ] TP 4 : Chaînes de Markov I
-- [ ] TP 5 : Chaînes de Markov II
+- [X] TP 4 : Chaînes de Markov I
+- [X] TP 5 : Chaînes de Markov II
 - [ ] TP 6 : Statistiques bivariées
 - [ ] TP 7 : Simulation de lois à densité
 - [ ] TP 8 : Fonctions de plusieurs variables
