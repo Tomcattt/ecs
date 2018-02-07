@@ -18,7 +18,7 @@ On top
 ##### Indispensables
 	- Pays Emergents					% imprimé
 	- Villes						% imprimé
-	- Migrations  						% imprimé
+	- Migrations  						90%
 	- Matières Premières					90%
 	- Pétrole et Énergie					90%		
 	- Commerce International				% imprimé
