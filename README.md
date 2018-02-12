@@ -60,6 +60,8 @@ On top
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Alain Troesch](http://alain.troesch.free.fr/index2012.html)
+* [Lycée Poincaré](http://ecs2poincare.free.fr/index_cours_exos.html)
+* [Lycée La Bruyère](http://www.rblld.fr/ecs2lb/index.php/2017-2018/td)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 - [ ] Sommation
