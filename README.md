@@ -13,6 +13,8 @@ On top
 * [Moyen Orient](https://tomcattt.github.io/mo)
 * [Matières premières](https://tomcattt.github.io/mpremieres)
 * [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
+* [Migrations](https://tomcattt.github.io/migration)
+* [Mondialisation et inégalités](https://tomcattt.github.io/mond_et_ine)
 
 #### **Cours**
 ##### Indispensables
