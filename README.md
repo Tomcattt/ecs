@@ -26,20 +26,20 @@ On top
 	- France						50%
 		
 ##### Complémentaires
-	- Agriculture et Matières Premières Agricoles
-	- Eau
-	- Environnement et Développement Durable
-	- Dynamiques Démographiques
-	- Transports
-	- Tiers-Monde
-	- Mondialisation, Inégalités et Etat
-	- Frontières et Mondialisation
+	- Agriculture et Matières Premières Agricoles		%imprimé
+	- Eau							%imprimé
+	- Environnement et Développement Durable		%imprimé
+	- Dynamiques Démographiques				%imprimé
+	- Transports						%imprimé
+	- Tiers-Monde						%imprimé
+	- Mondialisation, Inégalités et Etat			90%
+	- Frontières et Mondialisation				%imprimé
 		
 ##### Continent
 	- Afrique						30%
 	- Asie							90%
 	- Amérique latine					90%
-	- Europe						[En Cours]
+	- Europe						90%
 	- Etats-Unis						90%
 	- Moyen-Orient						90%
 #### **Ressources**
