@@ -31,7 +31,7 @@ On top
 	- Agriculture et Matières Premières Agricoles		%imprimé
 	- Eau							%imprimé
 	- Environnement et Développement Durable		%imprimé
-	- Dynamiques Démographiques				%imprimé
+	- Dynamiques Démographiques				90%
 	- Transports						%imprimé
 	- Tiers-Monde						%imprimé
 	- Mondialisation, Inégalités et Etat			90%
@@ -94,7 +94,7 @@ On top
 - [x] Chapitre 14 : Convergence des variables
 - [x] Chapitre 15 : Endomorphismes et matrices symétriques
 - [x] Chapitre 16 : Estimation ponctuelle
-- [ ] Chapitre 17 : Topologie de Rn. Calcul différentiel d’ordre 2
+- [x] Chapitre 17 : Topologie de Rn. Calcul différentiel d’ordre 2
 - [ ] Chapitre 18 : Estimation par intervalle de confiance
 - [ ] Chapitre 19 : Optimisation sous contraintes
 
