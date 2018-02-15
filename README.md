@@ -16,6 +16,7 @@ On top
 * [Migrations](https://tomcattt.github.io/migration)
 * [Mondialisation et inégalités](https://tomcattt.github.io/mond_et_ine)
 * [Démographie](https://tomcattt.github.io/demographie)
+* [L'Eau](https://tomcattt.github.io/eau)
 
 #### **Cours**
 ##### Indispensables
@@ -30,7 +31,7 @@ On top
 		
 ##### Complémentaires
 	- Agriculture et Matières Premières Agricoles		%imprimé
-	- Eau							%imprimé
+	- Eau							90%
 	- Environnement et Développement Durable		%imprimé
 	- Dynamiques Démographiques				90%
 	- Transports						%imprimé
