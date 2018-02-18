@@ -23,11 +23,8 @@ On top
 ##### Complémentaires
 | Timeline  | Avancement |
 | ------------- | :---: |
-| Agriculture et Matières Premières Agricoles | %imprimé |
 | [L'Eau](https://tomcattt.github.io/eau)  | 90%  |
-| [Environnement et développement durable](https://tomcattt.github.io/edd)  | 90%  |
 | [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture) | 90% |
-| [L'Eau](https://tomcattt.github.io/eau)  | 90%  |
 | [Environnement et développement durable](https://tomcattt.github.io/eddd)  | 90%  |
 | [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
 | Transports  | %imprimé  |
