@@ -4,48 +4,44 @@ On top
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
 * [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-#### Timelines
-* [Amérique Latine](https://tomcattt.github.io/al)
-* [États-Unis D'Amériques](https://tomcattt.github.io/eua)
-* [France](https://tomcattt.github.io/france)
-* [Europe](https://tomcattt.github.io/europe)
-* [Asie](https://tomcattt.github.io/asie)
-* [Moyen Orient](https://tomcattt.github.io/mo)
-* [Matières premières](https://tomcattt.github.io/mpremieres)
-* [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
-* [Migrations](https://tomcattt.github.io/migration)
-* [Mondialisation et inégalités](https://tomcattt.github.io/mond_et_ine)
-* [Démographie](https://tomcattt.github.io/demographie)
-* [L'Eau](https://tomcattt.github.io/eau)
 
 #### **Cours**
 ##### Indispensables
-	- Pays Emergents					% imprimé
-	- Villes						% imprimé
-	- Migrations  						90%
-	- Matières Premières					90%
-	- Pétrole et Énergie					90%		
-	- Commerce International				% imprimé
-	- Mers et Espaces Maritimes				% imprimé
-	- France						50%
-		
+
+| Timeline  | Avancement |
+| ------------- | :---: |
+| Afrique  | 30%  |
+| Pays Emergents  |%imprimé|
+| VIlles|%imprimé|
+| [Migrations](https://tomcattt.github.io/migration)  |90%|
+| [Matières premières](https://tomcattt.github.io/mpremieres)|90%|
+| [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)|90%|
+|Commerce International|%imprimé|
+|Mers et Espaces Maritimes|%imprimé|
+|[France](https://tomcattt.github.io/france)|50%|
+
 ##### Complémentaires
-- Agriculture et Matières Premières Agricoles		%imprimé
-- [L'Eau](https://tomcattt.github.io/eau)		90%
-- [Environnement et développement durable](https://tomcattt.github.io/edd)		90%
-- Dynamiques Démographiques				90%
-- Transports						%imprimé
-- Tiers-Monde						%imprimé
-- Mondialisation, Inégalités et Etat			90%
-- Frontières et Mondialisation				%imprimé
+| Timeline  | Avancement |
+| ------------- | :---: |
+| Agriculture et Matières Premières Agricoles | %imprimé |
+| [L'Eau](https://tomcattt.github.io/eau)  | 90%  |
+| [Environnement et développement durable](https://tomcattt.github.io/edd)  | 90%  |
+| [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
+| Transports  | %imprimé  |
+| Tiers-Monde  | %imprimé  |
+| [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
+| Frontières et Mondialisation  | %imprimé  |	
 		
 ##### Continent
-	- Afrique						30%
-	- Asie							90%
-	- Amérique latine					90%
-	- Europe						90%
-	- Etats-Unis						90%
-	- Moyen-Orient						90%
+| Timeline  | Avancement |
+| ------------- | :---: |
+| Afrique  | 30%  |
+| [Asie](https://tomcattt.github.io/asie)  |90%|
+| [Amérique Latine](https://tomcattt.github.io/al)|90%|
+| [Europe](https://tomcattt.github.io/europe)  |90%|
+| [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
+| [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
+
 #### **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
