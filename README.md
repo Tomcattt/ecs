@@ -25,7 +25,7 @@ On top
 | ------------- | :---: |
 | [L'Eau](https://tomcattt.github.io/eau)  | 90%  |
 | [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture) | 90% |
-| [Environnement et développement durable](https://tomcattt.github.io/eddd)  | 90%  |
+| [Environnement et développement durable](https://tomcattt.github.io/devdurable)  | 90%  |
 | [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
 | Transports  | %imprimé  |
 | Tiers-Monde  | %imprimé  |
