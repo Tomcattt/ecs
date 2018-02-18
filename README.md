@@ -33,7 +33,7 @@ On top
 ##### Complémentaires
 	- Agriculture et Matières Premières Agricoles		%imprimé
 	- Eau							90%
-	- Environnement et Développement Durable		90%
+	- [Environnement et développement durable](https://tomcattt.github.io/edd)		90%
 	- Dynamiques Démographiques				90%
 	- Transports						%imprimé
 	- Tiers-Monde						%imprimé
