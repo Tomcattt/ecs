@@ -17,7 +17,6 @@ On top
 * [Mondialisation et inégalités](https://tomcattt.github.io/mond_et_ine)
 * [Démographie](https://tomcattt.github.io/demographie)
 * [L'Eau](https://tomcattt.github.io/eau)
-* [Environnement et développement durable](https://tomcattt.github.io/edd)
 
 #### **Cours**
 ##### Indispensables
@@ -31,14 +30,14 @@ On top
 	- France						50%
 		
 ##### Complémentaires
-	- Agriculture et Matières Premières Agricoles		%imprimé
-	- Eau							90%
-	- [Environnement et développement durable](https://tomcattt.github.io/edd)		90%
-	- Dynamiques Démographiques				90%
-	- Transports						%imprimé
-	- Tiers-Monde						%imprimé
-	- Mondialisation, Inégalités et Etat			90%
-	- Frontières et Mondialisation				%imprimé
+- Agriculture et Matières Premières Agricoles		%imprimé
+- [L'Eau](https://tomcattt.github.io/eau)		90%
+- [Environnement et développement durable](https://tomcattt.github.io/edd)		90%
+- Dynamiques Démographiques				90%
+- Transports						%imprimé
+- Tiers-Monde						%imprimé
+- Mondialisation, Inégalités et Etat			90%
+- Frontières et Mondialisation				%imprimé
 		
 ##### Continent
 	- Afrique						30%
