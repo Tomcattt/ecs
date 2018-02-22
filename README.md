@@ -16,7 +16,7 @@ On top
 | [Migrations](https://tomcattt.github.io/migration)  |90%|
 | [Matières premières](https://tomcattt.github.io/mpremieres)|90%|
 | [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)|90%|
-|Commerce International|%imprimé|
+|[Commerce International](https://tomcattt.github.io/com)|90%|
 |Mers et Espaces Maritimes|%imprimé|
 |[France](https://tomcattt.github.io/france)|50%|
 
