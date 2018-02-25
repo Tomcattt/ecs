@@ -57,7 +57,7 @@ On top
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
 
 ### Le Corps : ILLUSTRATIONS
-* [ ] Introduction, Statut du Corps dans les différentes religions & civilisations
+* [X] [Introduction, Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
 * [ ] ILLUSTRATIONS, Chapitre 1 : Corps et Âme, un Dilemme Éternel
 * [ ] ILLUSTRATIONS, Chapitre 2 : La Religion, la Morale et le Corps
 * [X] [ILLUSTRATIONS, Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
