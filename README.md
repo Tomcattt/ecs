@@ -10,7 +10,6 @@ On top
 
 | Timeline  | Avancement |
 | ------------- | :---: |
-| Afrique  | 30%  |
 | Pays Emergents  |%imprimé|
 | VIlles|%imprimé|
 | [Migrations](https://tomcattt.github.io/migration)  |90%|
@@ -27,10 +26,10 @@ On top
 | [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture) | 90% |
 | [Environnement et développement durable](https://tomcattt.github.io/devdurable)  | 90%  |
 | [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
-| Transports  | %imprimé  |
+| [Transports](https://tomcattt.github.io/trs)  | 90% |
 | Tiers-Monde  | %imprimé  |
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
-| Frontières et Mondialisation  | %imprimé  |	
+| [Frontières et Mondialisation](Tomcattt.github.io/frontieres)| 90%  |	
 		
 ##### Continent
 | Timeline  | Avancement |
@@ -50,8 +49,8 @@ On top
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
 
 ### Le Corps : COURS
-* [ ] Chapitre 1 : Au comencement était Platon
-* [ ] Chapitre 2 : Le matérialisme de l'Antiquité (Épicure et Lucrèce)
+* [X] Chapitre 1 : Au comencement était Platon
+* [X] Chapitre 2 : Le matérialisme de l'Antiquité (Épicure et Lucrèce)
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
@@ -101,8 +100,8 @@ On top
 - [x] Chapitre 15 : Endomorphismes et matrices symétriques
 - [x] Chapitre 16 : Estimation ponctuelle
 - [x] Chapitre 17 : Topologie de Rn. Calcul différentiel d’ordre 2
-- [ ] Chapitre 18 : Estimation par intervalle de confiance
-- [ ] Chapitre 19 : Optimisation sous contraintes
+- [X] Chapitre 18 : Estimation par intervalle de confiance
+- [X] Chapitre 19 : Optimisation sous contraintes
 
 ## :computer: Informatique
 - [x] TP 1 : Manipulation de matrices
