@@ -29,7 +29,7 @@ On top
 | [Transports](https://tomcattt.github.io/trs)  | 90% |
 | Tiers-Monde  | %imprimé  |
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
-| [Frontières et Mondialisation](Tomcattt.github.io/frontieres)| 90%  |	
+| [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 		
 ##### Continent
 | Timeline  | Avancement |
