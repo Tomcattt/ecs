@@ -47,6 +47,7 @@ On top
 
 ## :trollface: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
+* [Cours](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 
 ### Le Corps : COURS
 * [X] Chapitre 1 : Au comencement était Platon
