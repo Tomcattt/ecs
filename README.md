@@ -1,4 +1,4 @@
-# :mortar_board: **ECS Quentin**
+# :mortar_board: **ECS**
 On top
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
