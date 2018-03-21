@@ -10,7 +10,6 @@ On top
 
 | Timeline  | Avancement |
 | ------------- | :---: |
-| Afrique  | 30%  |
 | Pays Emergents  |%imprimé|
 | VIlles|%imprimé|
 | [Migrations](https://tomcattt.github.io/migration)  |90%|
@@ -27,10 +26,10 @@ On top
 | [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture) | 90% |
 | [Environnement et développement durable](https://tomcattt.github.io/devdurable)  | 90%  |
 | [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
-| Transports  | %imprimé  |
+| [Transports](https://tomcattt.github.io/trs)  | 90% |
 | Tiers-Monde  | %imprimé  |
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
-| Frontières et Mondialisation  | %imprimé  |	
+| [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 		
 ##### Continent
 | Timeline  | Avancement |
@@ -48,10 +47,11 @@ On top
 
 ## :trollface: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
+* [Cours](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 
 ### Le Corps : COURS
-* [ ] Chapitre 1 : Au comencement était Platon
-* [ ] Chapitre 2 : Le matérialisme de l'Antiquité (Épicure et Lucrèce)
+* [X] Chapitre 1 : Au comencement était Platon
+* [X] Chapitre 2 : Le matérialisme de l'Antiquité (Épicure et Lucrèce)
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
@@ -62,6 +62,9 @@ On top
 * [ ] ILLUSTRATIONS, Chapitre 2 : La Religion, la Morale et le Corps
 * [X] [ILLUSTRATIONS, Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
 * [X] [ILLUSTRATIONS, Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
+
+### Le Corps : EN Seneve 2008
+* [X] [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
 
 ## :chart_with_upwards_trend: **Mathématiques**
 * [LA TOTALE](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
@@ -101,8 +104,8 @@ On top
 - [x] Chapitre 15 : Endomorphismes et matrices symétriques
 - [x] Chapitre 16 : Estimation ponctuelle
 - [x] Chapitre 17 : Topologie de Rn. Calcul différentiel d’ordre 2
-- [ ] Chapitre 18 : Estimation par intervalle de confiance
-- [ ] Chapitre 19 : Optimisation sous contraintes
+- [X] Chapitre 18 : Estimation par intervalle de confiance
+- [X] Chapitre 19 : Optimisation sous contraintes
 
 ## :computer: Informatique
 - [x] TP 1 : Manipulation de matrices
