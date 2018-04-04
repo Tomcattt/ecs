@@ -7,7 +7,7 @@ On top
 * [HGGMC](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)
 
 #### **Cours**
-[Timeline pour impression](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
+* [Timeline pour impression](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 ##### Indispensables
 
 | Timeline  | Avancement |
