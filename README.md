@@ -11,13 +11,13 @@ On top
 
 | Timeline  | Avancement |
 | ------------- | :---: |
-| Pays Emergents  |%imprimé|
+| [Pays Emergents](https://tomcattt.github.io/emergents)|90%|
 | [Villes](https://tomcattt.github.io/les_villes)  |90%|
 | [Migrations](https://tomcattt.github.io/migration)  |90%|
 | [Matières premières](https://tomcattt.github.io/mpremieres)|90%|
 | [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)|90%|
 |[Commerce International](https://tomcattt.github.io/com)|90%|
-|Mers et Espaces Maritimes|%imprimé|
+|[Mers et Espaces Maritimes](https://tomcattt.github.io/mers)|90%|
 |[France](https://tomcattt.github.io/france)|50%|
 
 ##### Complémentaires
