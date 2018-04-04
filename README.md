@@ -4,10 +4,10 @@ On top
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
-* [HGGMC](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)
+* [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 
 #### **Cours**
-* [Timeline pour impression](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
+* [Timeline pour impression](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)
 ##### Indispensables
 
 | Timeline  | Avancement |
