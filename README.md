@@ -4,9 +4,10 @@ On top
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
-* [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
+* [HGGMC](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)
 
 #### **Cours**
+[Timeline pour impression](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 ##### Indispensables
 
 | Timeline  | Avancement |
@@ -41,9 +42,6 @@ On top
 | [Europe](https://tomcattt.github.io/europe)  |90%|
 | [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
 | [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
-
-#### Continent
-<a href="(https://github.com/Tomcattt/Tomcattt.github.io/blob/master/print/asie.pdf?raw=true)" rel="Asie">![Foo](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/images/asie.png?raw=true)]</a>
 
 #### **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
