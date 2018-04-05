@@ -1,4 +1,4 @@
-# :mortar_board: **ECS Quentin**
+# :mortar_board: **ECS QC**
 On top
 ![alt text](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/tomcat.jpg?raw=true)
 
