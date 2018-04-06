@@ -29,7 +29,7 @@ On top
 | [Environnement et développement durable](https://tomcattt.github.io/devdurable)  | 90%  |
 | [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
 | [Transports](https://tomcattt.github.io/trs)  | 90% |
-| Tiers-Monde  | %imprimé  |
+| [Tiers-Monde](https://tomcattt.github.io/tm) | 90%  |
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 		
