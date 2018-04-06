@@ -36,7 +36,6 @@ On top
 ##### Continent
 | Timeline  | Avancement |
 | ------------- | :---: |
-| Afrique  | 30%  |
 | [Asie](https://tomcattt.github.io/asie)  |90%|
 | [Amérique Latine](https://tomcattt.github.io/al)|90%|
 | [Europe](https://tomcattt.github.io/europe)  |90%|
