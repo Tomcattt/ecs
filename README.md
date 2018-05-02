@@ -62,8 +62,6 @@ On top
 ### Le Corps : ANALYSES ET RÉFLEXIONS
 * [X] [Art du portrait et représentation du pouvoir](https://tomcattt.github.io/Art_du_Portrait_et_Representation_du_Pouvoir.pdf)
 * [X] [Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
-* [ ] Chapitre 1 : Corps et Âme, un Dilemme Éternel
-* [ ] Chapitre 2 : La Religion, la Morale et le Corps
 * [X] [Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
 * [X] [Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
 
