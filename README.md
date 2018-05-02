@@ -45,6 +45,7 @@ On top
 #### **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
+* [Statistiques de l'OCDE](https://data.oecd.org/fr/)
 
 ## :performing_arts: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
