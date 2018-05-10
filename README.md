@@ -52,6 +52,7 @@ On top
 * [Cours](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 * [Articles de Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
+* [Les Philosophes](https://www.les-philosophes.fr/)
 
 ### Le Corps : COURS
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
