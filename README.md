@@ -53,7 +53,7 @@ On top
 * [Articles de Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
 * [Les Philosophes](https://www.les-philosophes.fr/)
-*[Fiches](http://appli6.hec.fr/amo/)
+* [Fiches](http://appli6.hec.fr/amo/)
 
 ### Le Corps : COURS
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
