@@ -121,6 +121,9 @@ On top
 - [ ] TP 8 : Fonctions de plusieurs variables
 - [ ] TP 9 : Estimation ponctuelle et par intervalle
 
+## :computer: Outils & LaTeX
+* [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
+
 ## :us: **Anglais**
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
