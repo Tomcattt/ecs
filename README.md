@@ -117,8 +117,8 @@ On top
 - [X] TP 4 : Chaînes de Markov I
 - [X] TP 5 : Chaînes de Markov II
 - [X] TP 6 : Statistiques bivariées
-- [ ] TP 7 : Simulation de lois à densité
-- [ ] TP 8 : Fonctions de plusieurs variables
+- [X] TP 7 : Simulation de lois à densité
+- [X] TP 8 : Fonctions de plusieurs variables
 - [ ] TP 9 : Estimation ponctuelle et par intervalle
 
 ## :computer: Outils & LaTeX
