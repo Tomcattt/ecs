@@ -137,6 +137,3 @@ On top
 * [?](https://youtu.be/PPQzctf_wIk)
 
 ![alt text](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/tomcat3.jpg?raw=true)
-![alt text](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/tomcat2.jpg?raw=true)
-![alt text](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/tomcat4.png?raw=true)
-
