@@ -46,6 +46,8 @@ On top
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 * [Statistiques de l'OCDE](https://data.oecd.org/fr/)
+* [Mind the Map](http://mindthemap.fr)
+* [Le Grand Continent](https://legrandcontinent.eu)
 
 ## :performing_arts: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
