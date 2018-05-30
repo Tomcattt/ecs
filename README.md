@@ -49,7 +49,7 @@
 * [Le Grand Continent](https://legrandcontinent.eu)
 
 ## :performing_arts: **Culture Générale**
-:link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
+:link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *bref récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
 #### Le Corps   
 *Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
