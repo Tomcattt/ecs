@@ -5,7 +5,7 @@
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/Capture%20d’écran%202018-05-30%20à%2023.07.14.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-:link:[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
+:link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
 ###### Chapitres Continents
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
@@ -38,7 +38,7 @@
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 
-:link: [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
+:link:&nbsp;[__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
 
 #### **Ressources**
 *dont je ne possède pas les droits*
@@ -49,7 +49,7 @@
 * [Le Grand Continent](https://legrandcontinent.eu)
 
 ## :performing_arts: **Culture Générale**
-:link: [__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
+:link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
 #### Le Corps   
 *Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
