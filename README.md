@@ -5,10 +5,10 @@
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
-* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes*
+* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes, bug sous safari*
 
 #### **Cours**
-* [_Timeline pour impression_](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print) *Récapitulatif d'évènements à retenir selon le cours du prof et quelques articles*
+* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print) *Récapitulatif d'évènements à retenir selon le cours du prof et quelques articles*
 
 ##### Chapitres Continents
 | Timeline  | Avancement |
@@ -47,7 +47,7 @@
 * [Le Grand Continent](https://legrandcontinent.eu)
 
 ## :performing_arts: **Culture Générale**
-* [Timeline Philosophie](https://tomcattt.github.io/philosophie)
+* [Timeline Philosophie](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 * [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 * [Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
