@@ -40,7 +40,7 @@
 
 [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
 
-#### **Ressources**
+###### **Ressources**
 *dont je ne possède pas les droits*
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
@@ -51,7 +51,7 @@
 ## :performing_arts: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
-### Le Corps   
+###### Le Corps   
 *Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
@@ -62,7 +62,7 @@
 * [X] [Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
 * [X] [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
 
-#### **Ressources**   
+###### **Ressources**   
 *dont je ne possède pas les droits*
 * [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 * [Louis Marin](http://www.louismarin.fr/spip.php?article25)
@@ -80,7 +80,7 @@
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
 
-#### Chapitres
+###### Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
 - [x] Chapitre 2 : Variables aléatoires discrètes. Espérance conditionnelle
 - [x] Chapitre 3 : Rappels et compléments d'algèbre linéaire
