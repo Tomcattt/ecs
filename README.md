@@ -5,13 +5,12 @@
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
-* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes, bug sous safari*
+* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
 #### **Cours**
-* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print) *Récapitulatif d'évènements à retenir selon le cours du prof et quelques articles*
 
 ##### Chapitres Continents
-| Timeline  | Avancement |
+| Timeline  | Avancement |*Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
 | ------------- | :---: |
 | [Asie](https://tomcattt.github.io/asie)  |90%|
 | [Amérique Latine](https://tomcattt.github.io/al)|90%|
@@ -39,7 +38,9 @@
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 
-#### **Ressources**
+* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)*Timeline précédentes optimisés pour l'impression*
+
+#### **Ressources** *dont je ne possède pas les droits*
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 * [Statistiques de l'OCDE](https://data.oecd.org/fr/)
@@ -48,24 +49,23 @@
 
 ## :performing_arts: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
-* [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
-* [Louis Marin](http://www.louismarin.fr/spip.php?article25)
-* [Érudit](https://www.erudit.org/fr/)
-* [Fiches Livres](http://appli6.hec.fr/amo/)
 
-### Le Corps : axe du cours
+### Le Corps *Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
-
-### Le Corps : analyses
 * [X] [Art du portrait et représentation du pouvoir](https://tomcattt.github.io/Art_du_Portrait_et_Representation_du_Pouvoir.pdf)
 * [X] [Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
 * [X] [Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
 * [X] [Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
-
-### Le Corps : EN Seneve 2008
 * [X] [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
+
+#### **Ressources** *dont je ne possède pas les droits*
+* [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
+* [Louis Marin](http://www.louismarin.fr/spip.php?article25)
+* [Érudit](https://www.erudit.org/fr/)
+* [Fiches Livres](http://appli6.hec.fr/amo/)
+* [Les Ernest](http://www.les-ernest.fr)
 
 ## :chart_with_upwards_trend: **Mathématiques**
 * [ECS2 2017-18 Fauriel](http://ecs2-fauriel.fr/public/Cours/Integrale.pdf)
@@ -112,14 +112,12 @@
 ## :computer: Outils & LaTeX
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
 
-## :us: **Anglais**
+## :us: **Anglais** *lecture régulière*
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
 
 ## :blue_book: **Autres**
-* [Les Ernest](http://www.les-ernest.fr)
-* [BCE](http://www.concours-bce.com)
 * [Annales BCE](https://www.iscparis.com/admissions-isc-paris/master-grande-ecole/classes-preparatoires/preparations-aux-ecrits/annales/)
 
 ## :musical_note: **Chill**
