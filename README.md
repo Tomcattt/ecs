@@ -1,11 +1,11 @@
 # :mortar_board: **ECS Quentin C.**
 
 ## :heavy_dollar_sign: **Économie**
-* [__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf) *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
+* [__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
-* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
+* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
 #### **Cours**
 
@@ -40,9 +40,9 @@
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 
-* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)*Timeline précédentes optimisés pour l'impression*
+* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisés pour l'impression*
 
-#### **Ressources** *dont je ne possède pas les droits*
+#### **Ressources**   *dont je ne possède pas les droits*
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 * [Statistiques de l'OCDE](https://data.oecd.org/fr/)
@@ -52,7 +52,7 @@
 ## :performing_arts: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie) *brèf récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
-### Le Corps *Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
+### Le Corps   *Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
@@ -62,7 +62,7 @@
 * [X] [Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
 * [X] [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
 
-#### **Ressources** *dont je ne possède pas les droits*
+#### **Ressources**   *dont je ne possède pas les droits*
 * [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 * [Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
