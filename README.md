@@ -4,12 +4,10 @@
 * [__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-#### Map
-* [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
+#### Carte
+[__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
-#### **Cours**
-
-##### Chapitres Continents
+###### Chapitres Continents
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
 
 | Timeline  | Avancement |
@@ -20,7 +18,7 @@
 | [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
 | [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
 
-##### Chapitre complémentaires
+###### Chapitres complémentaires
 | Timeline  | Avancement |
 | ------------- | :---: |
 | [Pays Emergents](https://tomcattt.github.io/emergents)|90%|
@@ -40,7 +38,7 @@
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 
-* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
+[__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
 
 #### **Ressources**
 *dont je ne possède pas les droits*
