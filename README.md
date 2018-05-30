@@ -117,7 +117,8 @@
 ## :computer: Outils & LaTeX
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
 
-## :us: **Anglais** *lecture régulière*
+## :us: **Anglais**
+*lecture régulière*
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
