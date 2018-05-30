@@ -55,7 +55,7 @@
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
 
-### Le Corps : analyses diverses
+### Le Corps : analyses
 * [X] [Art du portrait et représentation du pouvoir](https://tomcattt.github.io/Art_du_Portrait_et_Representation_du_Pouvoir.pdf)
 * [X] [Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
 * [X] [Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
