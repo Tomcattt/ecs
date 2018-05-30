@@ -1,6 +1,4 @@
-# :mortar_board: **ECS QC**
-On top
-![alt text](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/tomcat.jpg?raw=true)
+# :mortar_board: **ECS QUentin C.**
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
@@ -8,8 +6,17 @@ On top
 
 #### **Cours**
 * [Timeline pour impression](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)
-##### Indispensables
 
+##### Chapitres Continents
+| Timeline  | Avancement |
+| ------------- | :---: |
+| [Asie](https://tomcattt.github.io/asie)  |90%|
+| [Amérique Latine](https://tomcattt.github.io/al)|90%|
+| [Europe](https://tomcattt.github.io/europe)  |90%|
+| [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
+| [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
+
+##### Chapitre complémentaires
 | Timeline  | Avancement |
 | ------------- | :---: |
 | [Pays Emergents](https://tomcattt.github.io/emergents)|90%|
@@ -17,13 +24,9 @@ On top
 | [Migrations](https://tomcattt.github.io/migration)  |90%|
 | [Matières premières](https://tomcattt.github.io/mpremieres)|90%|
 | [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)|90%|
-|[Commerce International](https://tomcattt.github.io/com)|90%|
-|[Mers et Espaces Maritimes](https://tomcattt.github.io/mers)|90%|
-|[France](https://tomcattt.github.io/france)|50%|
-
-##### Complémentaires
-| Timeline  | Avancement |
-| ------------- | :---: |
+| [Commerce International](https://tomcattt.github.io/com)|90%|
+| [Mers et Espaces Maritimes](https://tomcattt.github.io/mers)|90%|
+| [France](https://tomcattt.github.io/france)|50%|
 | [L'Eau](https://tomcattt.github.io/eau)  | 90%  |
 | [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture) | 90% |
 | [Environnement et développement durable](https://tomcattt.github.io/devdurable)  | 90%  |
@@ -32,15 +35,6 @@ On top
 | [Tiers-Monde](https://tomcattt.github.io/tm) | 90%  |
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
-		
-##### Continent
-| Timeline  | Avancement |
-| ------------- | :---: |
-| [Asie](https://tomcattt.github.io/asie)  |90%|
-| [Amérique Latine](https://tomcattt.github.io/al)|90%|
-| [Europe](https://tomcattt.github.io/europe)  |90%|
-| [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
-| [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
 
 #### **Ressources**
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
@@ -51,18 +45,17 @@ On top
 
 ## :performing_arts: **Culture Générale**
 * [Timeline Philosophie](https://tomcattt.github.io/philosophie)
-* [Cours](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
-* [Articles de Louis Marin](http://www.louismarin.fr/spip.php?article25)
+* [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
+* [Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
-* [Les Philosophes](https://www.les-philosophes.fr/)
-* [Fiches](http://appli6.hec.fr/amo/)
+* [Fiches Livres](http://appli6.hec.fr/amo/)
 
-### Le Corps : COURS
+### Le Corps : axe du cours
 * [X] [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
 * [X] [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
 * [X] [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
 
-### Le Corps : ANALYSES ET RÉFLEXIONS
+### Le Corps : analyses diverses
 * [X] [Art du portrait et représentation du pouvoir](https://tomcattt.github.io/Art_du_Portrait_et_Representation_du_Pouvoir.pdf)
 * [X] [Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
 * [X] [Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
@@ -71,8 +64,11 @@ On top
 ### Le Corps : EN Seneve 2008
 * [X] [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
 
+## :heavy_dollar_sign: **Économie**
+* [Histoire des idées économiques](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
+
 ## :chart_with_upwards_trend: **Mathématiques**
-* [LA TOTALE](http://ecs2-fauriel.fr/public/2016-2017/Cours/Integrale.pdf)
+* [ECS2 2017-18 Fauriel](http://ecs2-fauriel.fr/public/Cours/Integrale.pdf)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
 * [JF Cossutta](http://jfcossutta.lycee-berthelot.fr)
 * [Alain Troesch](http://alain.troesch.free.fr/index2012.html)
@@ -80,16 +76,6 @@ On top
 * [Lycée La Bruyère](http://www.rblld.fr/ecs2lb/index.php/2017-2018/td)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
-- [ ] Sommation
-- [ ] Formule d'inversion de Pascal
-- [ ] Loi binomiale conditionnée
-- [ ] Fonction génératrice
-- [ ] Formule du crible
-- [ ] Changement de variable en calcul intégral
-- [ ] Fonctions convexes
-- [ ] Trace et transposée de matrice
-- [ ] Équivalents et développements de suites
-- [ ] Repère euclidien non orthonormé
 
 #### Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
@@ -121,7 +107,7 @@ On top
 - [X] TP 6 : Statistiques bivariées
 - [X] TP 7 : Simulation de lois à densité
 - [X] TP 8 : Fonctions de plusieurs variables
-- [ ] TP 9 : Estimation ponctuelle et par intervalle
+- [X] TP 9 : Estimation ponctuelle et par intervalle
 
 ## :computer: Outils & LaTeX
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
