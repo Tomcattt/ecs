@@ -11,6 +11,7 @@
 
 ##### Chapitres Continents
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
+
 | Timeline  | Avancement |
 | ------------- | :---: |
 | [Asie](https://tomcattt.github.io/asie)  |90%|
