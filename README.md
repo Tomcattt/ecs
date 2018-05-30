@@ -40,7 +40,7 @@
 | [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
 | [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
 
-* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisés pour l'impression*
+* [__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
 
 #### **Ressources**   *dont je ne possède pas les droits*
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
