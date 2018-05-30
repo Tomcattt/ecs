@@ -1,14 +1,14 @@
 # :mortar_board: **ECS Quentin C.**
 
 ## :heavy_dollar_sign: **Économie**
-* [Histoire des idées économiques](https://tomcattt.github.io/main.pdf) *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
+* [_Histoire des idées économiques_](https://tomcattt.github.io/main.pdf) *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Map
-* [HGGMC](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes*
+* [_HGGMC_](https://realtimeboard.com/app/board/o9J_k0YICf0=/) *Notes prises selon divers cours avec des fonds de cartes*
 
 #### **Cours**
-* [Timeline pour impression](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print) *Récapitulatif d'évènements à retenir selon le cours du prof et quelques articles*
+* [_Timeline pour impression_](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print) *Récapitulatif d'évènements à retenir selon le cours du prof et quelques articles*
 
 ##### Chapitres Continents
 | Timeline  | Avancement |
