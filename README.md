@@ -10,7 +10,7 @@
 ###### Chapitres Continents
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
 
-| Timeline  | Avancement |
+| :link:&nbsp;Timeline  | Avancement |
 | ------------- | :---: |
 | [Asie](https://tomcattt.github.io/asie)  |90%|
 | [Amérique Latine](https://tomcattt.github.io/al)|90%|
@@ -19,7 +19,7 @@
 | [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
 
 ###### Chapitres complémentaires
-| Timeline  | Avancement |
+| :link:&nbsp;Timeline  | Avancement |
 | ------------- | :---: |
 | [Pays Emergents](https://tomcattt.github.io/emergents)|90%|
 | [Villes](https://tomcattt.github.io/les_villes)  |90%|
