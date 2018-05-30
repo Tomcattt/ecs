@@ -120,9 +120,7 @@
 ## :blue_book: **Autres**
 * [Les Ernest](http://www.les-ernest.fr)
 * [BCE](http://www.concours-bce.com)
-* [WHOLE Annales BCE](https://www.iscparis.com/admissions-isc-paris/master-grande-ecole/classes-preparatoires/preparations-aux-ecrits/annales/)
+* [Annales BCE](https://www.iscparis.com/admissions-isc-paris/master-grande-ecole/classes-preparatoires/preparations-aux-ecrits/annales/)
 
 ## :musical_note: **Chill**
 * [?](https://youtu.be/PPQzctf_wIk)
-
-![alt text](https://github.com/Tomcattt/Tomcattt.github.io/blob/master/tomcat3.jpg?raw=true)
