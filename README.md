@@ -1,13 +1,13 @@
 # :mortar_board: **ECS Quentin C.**
 
 ## :heavy_dollar_sign: **Économie**
-* [__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
+[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 #### Carte
 [__HGGMC__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
-###### Chapitres Continents
+#### Chapitres Continents
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
 
 | Timeline  | Avancement |
@@ -18,7 +18,7 @@
 | [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
 | [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
 
-###### Chapitres complémentaires
+#### Chapitres complémentaires
 | Timeline  | Avancement |
 | ------------- | :---: |
 | [Pays Emergents](https://tomcattt.github.io/emergents)|90%|
