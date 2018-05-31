@@ -4,7 +4,7 @@
 :link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/Capture%20d’écran%202018-05-30%20à%2023.07.14.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
+[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 :link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
 ###### Chapitres Continents
