@@ -117,6 +117,8 @@
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
 
 ## :us: **Anglais**
+:link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
+
 *lecture régulière*
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
