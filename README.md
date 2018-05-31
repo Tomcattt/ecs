@@ -4,12 +4,12 @@
 :link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
+[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 :link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
 ###### Chapitres Continents
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
-[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette2.png)](https://tomcattt.github.io/petrole_et_energie)
+[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
 
 | :link:&nbsp;Timeline  | Avancement |
 | ------------- | :---: |
