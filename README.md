@@ -1,5 +1,5 @@
 # :mortar_board: **ECS Quentin C.**
-
+:link:&nbsp; = fiches perso
 ## :heavy_dollar_sign: **Économie**
 :link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
 
