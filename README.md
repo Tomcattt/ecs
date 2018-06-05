@@ -2,6 +2,8 @@
 :link:&nbsp; = fiches perso
 ## :heavy_dollar_sign: **Économie**
 :link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
+* [Libre](http://www.libres.org)
+* [Institut Coppet](https://www.institutcoppet.org)
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
