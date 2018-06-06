@@ -81,6 +81,14 @@
 * [Fiches Livres](http://appli6.hec.fr/amo/)
 * [Les Ernest](http://www.les-ernest.fr)
 
+## :us: **Anglais**
+:link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
+
+*lecture régulière*
+* [HIR](http://hir.harvard.edu)
+* [MTR](https://www.technologyreview.com/the-download/)
+* [The Economist](https://www.economist.com)
+
 ## :chart_with_upwards_trend: **Mathématiques**
 * [ECS2 2017-18 Fauriel](http://ecs2-fauriel.fr/public/Cours/Integrale.pdf)
 * [Cours](http://ecs2-fauriel.fr//index.php?pages/Cours)
@@ -125,14 +133,6 @@
 
 ## :computer: Outils & LaTeX
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
-
-## :us: **Anglais**
-:link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
-
-*lecture régulière*
-* [HIR](http://hir.harvard.edu)
-* [MTR](https://www.technologyreview.com/the-download/)
-* [The Economist](https://www.economist.com)
 
 ## :blue_book: **Autres**
 * [Annales BCE](https://www.iscparis.com/admissions-isc-paris/master-grande-ecole/classes-preparatoires/preparations-aux-ecrits/annales/)
