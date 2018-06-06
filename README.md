@@ -19,7 +19,9 @@
 | [Amérique Latine](https://tomcattt.github.io/al)|90%|
 | [Europe](https://tomcattt.github.io/europe)  |90%|
 | [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
-| [Moyen Orient](https://tomcattt.github.io/mo)  |90%|	
+| [Moyen Orient](https://tomcattt.github.io/mo)  |90%|
+| [Afrique](https://tomcattt.github.io/afrique)  |50%|	
+
 
 #### Chapitres complémentaires
 | :link:&nbsp;Timeline  | Avancement |
