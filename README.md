@@ -51,6 +51,16 @@
 * [Mind the Map](http://mindthemap.fr)
 * [Le Grand Continent](https://legrandcontinent.eu)
 
+
+## :us: **Anglais**
+:link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
+
+*lecture régulière*
+* [HIR](http://hir.harvard.edu)
+* [MTR](https://www.technologyreview.com/the-download/)
+* [The Economist](https://www.economist.com)
+
+
 ## :performing_arts: **Culture Générale**
 :link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *bref récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
@@ -80,14 +90,6 @@
 * [Érudit](https://www.erudit.org/fr/)
 * [Fiches Livres](http://appli6.hec.fr/amo/)
 * [Les Ernest](http://www.les-ernest.fr)
-
-## :us: **Anglais**
-:link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
-
-*lecture régulière*
-* [HIR](http://hir.harvard.edu)
-* [MTR](https://www.technologyreview.com/the-download/)
-* [The Economist](https://www.economist.com)
 
 ## :chart_with_upwards_trend: **Mathématiques**
 * [ECS2 2017-18 Fauriel](http://ecs2-fauriel.fr/public/Cours/Integrale.pdf)
