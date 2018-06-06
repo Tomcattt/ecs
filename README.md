@@ -9,7 +9,7 @@
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 :link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, bug graphiques avec safari*
 
-### Timeline
+### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
 #### Chapitres Continents
