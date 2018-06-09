@@ -51,7 +51,7 @@
 * [DiploWeb](https://www.diploweb.com)
 * [Statistiques de l'OCDE](https://data.oecd.org/fr/)
 * [Mind the Map](http://mindthemap.fr)
-* [Le Grand Continent](https://legrandcontinent.eu)
+* [Groupe d'études géopolitiques](http://gegeurope.org) *think-thank de l'Ens*
 
 
 ## :us: **Anglais**
