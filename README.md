@@ -51,7 +51,8 @@
 * [DiploWeb](https://www.diploweb.com)
 * [Statistiques de l'OCDE](https://data.oecd.org/fr/)
 * [Mind the Map](http://mindthemap.fr)
-* [Groupe d'études géopolitiques](http://gegeurope.org) *think-thank de l'Ens*
+* [Groupe d'études géopolitiques](http://gegeurope.org) *think tank de l'Ens*
+* [La lettre du Lundi](https://lldl.eu/fr/home/) *newsletter de ce think tank*
 
 
 ## :us: **Anglais**
