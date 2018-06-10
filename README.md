@@ -50,6 +50,7 @@
 * [Histoire de comprendre](https://www.dailymotion.com/playlist/x1sh0p)
 * [DiploWeb](https://www.diploweb.com)
 * [Statistiques de l'OCDE](https://data.oecd.org/fr/)
+* [Site de Guillaume Pitron](http://www.guillaumepitron.com/)
 * [Mind the Map](http://mindthemap.fr)
 * [Groupe d'études géopolitiques](http://gegeurope.org) *think tank de l'Ens*
 * [La lettre du Lundi](https://lldl.eu/fr/home/) *newsletter de ce think tank*
