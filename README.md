@@ -1,9 +1,5 @@
 # :mortar_board: **ECS Quentin C.**
 :link:&nbsp; = fiches perso
-## :heavy_dollar_sign: **Économie**
-:link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
-* [Libre](http://www.libres.org)
-* [Institut Coppet](https://www.institutcoppet.org)
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
@@ -67,7 +63,10 @@
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
 
-
+## :heavy_dollar_sign: **Économie**
+:link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
+* [Libre](http://www.libres.org)
+* [Institut Coppet](https://www.institutcoppet.org)
 ## :performing_arts: **Culture Générale**
 :link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *bref récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
