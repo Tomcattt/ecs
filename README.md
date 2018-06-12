@@ -62,6 +62,7 @@
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
+* [The Economist Films](https://films.economist.com)
 
 ## :heavy_dollar_sign: **Économie**
 :link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
