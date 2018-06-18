@@ -109,6 +109,7 @@
 * [Lycée La Bruyère](http://www.rblld.fr/ecs2lb/index.php/2017-2018/td)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
+* [Cahier de Vacances PSI* rentrée 2018 Saint Louis](https://tomcattt.github.io/CahierVacances.pdf)
 
 #### Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
