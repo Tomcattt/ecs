@@ -3,7 +3,7 @@
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-:link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Notes prises selon divers cours avec des fonds de cartes, chargement parfois un peu long, bug avec safari*
+:link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Quelques notes et fonds de cartes, chargement parfois un peu long, bug avec safari*
 
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_4.png)](https://quizlet.com/_4zman7)
 :link:&nbsp;[__Quizlet Statistiques__](https://quizlet.com/_4zman7) *Statistiques relevées, mdp : tomcat*
@@ -62,6 +62,9 @@
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
 * [The Economist](https://www.economist.com)
+* [The Economist Films](https://films.economist.com)
+* [The Daily Show](https://www.youtube.com/watch?v=LSg_qJYoa4s&list=PLLHHcQWkLnpolBvTPKsnSUiLiWAucX48o) *un must see*
+
 
 ## :heavy_dollar_sign: **Économie**
 :link:&nbsp;[__Histoire des idées économiques__](https://tomcattt.github.io/main.pdf)   *Notes prises en suivant le MOOC de [l'école de la liberté](http://www.ecoleliberte.fr/ressource/histoire-des-idees-economiques/)*
@@ -106,6 +109,7 @@
 * [Lycée La Bruyère](http://www.rblld.fr/ecs2lb/index.php/2017-2018/td)
 * [UPS](https://concours-maths-cpge.fr)
 * [Compléments Maths ECS](https://fr.wikiversity.org/wiki/Complément_de_mathématiques_pour_prépa_HEC)
+* [Cahier de Vacances PSI* rentrée 2018 Saint Louis](https://tomcattt.github.io/CahierVacances.pdf)
 
 #### Chapitres
 - [x] Chapitre 1 : Rappels sur les suites et les séries
