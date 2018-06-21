@@ -143,6 +143,10 @@
 - [X] TP 8 : Fonctions de plusieurs variables
 - [X] TP 9 : Estimation ponctuelle et par intervalle
 
+## :it: **Italien**
+* [Italangue](http://www.italangue.com)
+* [Ray Play Radio](https://www.raiplayradio.it)
+
 ## :computer: Outils & LaTeX
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
 
