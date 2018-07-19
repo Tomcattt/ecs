@@ -12,35 +12,33 @@
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
 #### Chapitres Continents
-| :link:&nbsp;Timeline  | Avancement |
-| ------------- | :---: |
-| [Asie](https://tomcattt.github.io/asie)  |90%|
-| [Amérique Latine](https://tomcattt.github.io/al)|90%|
-| [Europe](https://tomcattt.github.io/europe)  |90%|
-| [États-Unis D'Amériques](https://tomcattt.github.io/eua)|90%|
-| [Moyen Orient](https://tomcattt.github.io/mo)  |90%|
-| [Afrique](https://tomcattt.github.io/afrique)  |50%|	
+:link:&nbsp;Timeline
+* [Asie](https://tomcattt.github.io/asie)
+* [Amérique Latine](https://tomcattt.github.io/al)
+* [Europe](https://tomcattt.github.io/europe)
+* [États-Unis D'Amériques](https://tomcattt.github.io/eua)
+* [Moyen Orient](https://tomcattt.github.io/mo)
+* [Afrique](https://tomcattt.github.io/afrique)
 
 
 #### Chapitres complémentaires
-| :link:&nbsp;Timeline  | Avancement |
-| ------------- | :---: |
-| [Pays Emergents](https://tomcattt.github.io/emergents)|90%|
-| [Villes](https://tomcattt.github.io/les_villes)  |90%|
-| [Migrations](https://tomcattt.github.io/migration)  |90%|
-| [Matières premières](https://tomcattt.github.io/mpremieres)|90%|
-| [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)|90%|
-| [Commerce International](https://tomcattt.github.io/com)|90%|
-| [Mers et Espaces Maritimes](https://tomcattt.github.io/mers)|90%|
-| [France](https://tomcattt.github.io/france)|50%|
-| [L'Eau](https://tomcattt.github.io/eau)  | 90%  |
-| [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture) | 90% |
-| [Environnement et développement durable](https://tomcattt.github.io/devdurable)  | 90%  |
-| [Dynamiques Démographiques](https://tomcattt.github.io/demographie)  | 90%  |
-| [Transports](https://tomcattt.github.io/trs)  | 90% |
-| [Tiers-Monde](https://tomcattt.github.io/tm) | 90%  |
-| [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)  | 90%  |
-| [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)| 90%  |	
+:link:&nbsp;Timeline
+* [Pays Emergents](https://tomcattt.github.io/emergents)
+* [Villes](https://tomcattt.github.io/les_villes)
+* [Migrations](https://tomcattt.github.io/migration)
+* [Matières premières](https://tomcattt.github.io/mpremieres)
+* [Pétrole et énergies](https://tomcattt.github.io/petrole_et_energie)
+* [Commerce International](https://tomcattt.github.io/com)
+* [Mers et Espaces Maritimes](https://tomcattt.github.io/mers)
+* [France](https://tomcattt.github.io/france)
+* [L'Eau](https://tomcattt.github.io/eau)
+* [Agriculture et Matières Premières Agricoles](https://tomcattt.github.io/agriculture)
+* [Environnement et développement durable](https://tomcattt.github.io/devdurable)
+* [Dynamiques Démographiques](https://tomcattt.github.io/demographie)
+* [Transports](https://tomcattt.github.io/trs)
+* [Tiers-Monde](https://tomcattt.github.io/tm)
+* [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)
+* [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)
 
 :link:&nbsp;[__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
 
