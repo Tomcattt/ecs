@@ -21,7 +21,6 @@
 
 
 #### :link:&nbsp; Chapitres complémentaires
-:link:&nbsp;Timeline
 * [Pays Emergents](https://tomcattt.github.io/emergents)
 * [Villes](https://tomcattt.github.io/les_villes)
 * [Migrations](https://tomcattt.github.io/migration)
