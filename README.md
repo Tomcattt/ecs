@@ -11,8 +11,7 @@
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
-#### Chapitres Continents
-:link:&nbsp;Timeline
+#### :link:&nbsp; Chapitres Continents
 * [Asie](https://tomcattt.github.io/asie)
 * [Amérique Latine](https://tomcattt.github.io/al)
 * [Europe](https://tomcattt.github.io/europe)
@@ -21,7 +20,7 @@
 * [Afrique](https://tomcattt.github.io/afrique)
 
 
-#### Chapitres complémentaires
+#### :link:&nbsp; Chapitres complémentaires
 :link:&nbsp;Timeline
 * [Pays Emergents](https://tomcattt.github.io/emergents)
 * [Villes](https://tomcattt.github.io/les_villes)
