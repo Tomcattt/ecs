@@ -1,5 +1,5 @@
 #beeline li .h
-.t{background-size:60px 90px}body{margin:10px;overflow:hidden}div{-webkit-tap-highlight-color:rgba(0,0,0,0)}#chart{position:relative;display:block;margin:auto auto auto auto;overflow:hidden;opacity:0}#chart
+.t{background-size:60px 120px}body{margin:10px;overflow:hidden}div{-webkit-tap-highlight-color:rgba(0,0,0,0)}#chart{position:relative;display:block;margin:auto auto auto auto;overflow:hidden;opacity:0}#chart
 #aspectRatio{display:none;font-size:14pt;position:absolute;top:50%;left:50%;width:200px;margin-left:-100px;color:white;text-align:center;margin-top:-1em;z-index:20}#chart
 form{position:absolute;right:8px;top:8px;z-index:10;-moz-transition:opacity 0.5s ease 0s;-webkit-transition:opacity 0.5s ease 0s;-o-transition:opacity 0.5s ease 0s;transition:opacity 0.5s ease 0s;opacity:0}#chart
 #fadeChart{position:absolute;background-color:rgba(0,0,0,0.6);top:0;width:100%;height:100%;z-index:8;-moz-transition:opacity 1s ease 0s;-webkit-transition:opacity 1s ease 0s;-o-transition:opacity 1s ease 0s;transition:opacity 1s ease 0s;opacity:0}#chart #nav-buttons{position:absolute;font-weight:bold;font-size:20px;top:50%;margin-top:-4.75em;width:100%;z-index:15}#chart #nav-buttons
