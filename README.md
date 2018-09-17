@@ -8,6 +8,8 @@
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_4.png)](https://quizlet.com/_4zman7)
 :link:&nbsp;[__Quizlet Statistiques__](https://quizlet.com/_4zman7) *Statistiques relevées, mdp : tomcat*
 
+* [Module 3 : Europe](https://raw.githubusercontent.com/Tomcattt/tomcattt.github.io/MODULE_3_EUROPE.pdf)
+
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
 *Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
@@ -70,28 +72,10 @@
 ## :performing_arts: **Culture Générale**
 :link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *bref récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
-#### Le Corps   
-*Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
-
-:link:&nbsp; [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
-
-:link:&nbsp; [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
-
-:link:&nbsp; [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
-
-:link:&nbsp; [Art du portrait et représentation du pouvoir](https://tomcattt.github.io/Art_du_Portrait_et_Representation_du_Pouvoir.pdf)
-
-:link:&nbsp; [Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
-
-:link:&nbsp; [Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
-
-:link:&nbsp; [Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
-
-:link:&nbsp; [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
+#### La Mémoire
 
 #### **Ressources**   
 *dont je ne possède pas les droits*
-* [Cours Corps](http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=4018)
 * [Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
 * [Fiches Livres](http://appli6.hec.fr/amo/)
@@ -152,3 +136,24 @@
 
 ## :musical_note: **Chill**
 * [?](https://youtu.be/PPQzctf_wIk)
+
+#### Archives 2017 - 2018
+
+##### Le Corps
+*Notes d'après le cours et suite au fichage de quelques ouvrages portant sur le thème du corps (librairie Vrin)*
+
+:link:&nbsp; [Chapitre 3 : Mécanisme et Théorie des passions](https://tomcattt.github.io/MECANISME_ET_THEORIE_DES_PASSIONS.pdf)
+
+:link:&nbsp; [Chapitre 4 : Existentialisme et phénoménologie](http://tomcattt.github.io/CHAPITRE_4_EXISTENTIALISME_ET_PHENOMENOLOGIE.pdf)
+
+:link:&nbsp; [Chapitre 5 : Le Corps Politique](https://tomcattt.github.io/LE_CORPS_POLITIQUE.pdf)
+
+:link:&nbsp; [Art du portrait et représentation du pouvoir](https://tomcattt.github.io/Art_du_Portrait_et_Representation_du_Pouvoir.pdf)
+
+:link:&nbsp; [Statut du Corps dans les différentes religions & civilisations](https://tomcattt.github.io/ILLUSTRATIONS_INTRODUCTION.pdf)
+
+:link:&nbsp; [Chapitre 3 : Littérature et Poésie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_3_LITTERATURE_ET_POESIE_DU_CORPS.pdf)
+
+:link:&nbsp; [Chapitre 4 : Esthétique et Morphologie du Corps](https://tomcattt.github.io/ILLUSTRATIONS_CHAPITRE_4_ESTHETIQUE_ET_MORPHOLOGIE_DU_CORPS.pdf)
+
+:link:&nbsp; [Le corps à l’épreuve du numérique](https://tomcattt.github.io/SENEVE_A_LEPREUVE_DU_NUMERIQUE.pdf)
