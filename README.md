@@ -8,7 +8,7 @@
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_4.png)](https://quizlet.com/_4zman7)
 :link:&nbsp;[__Quizlet Statistiques__](https://quizlet.com/_4zman7) *Statistiques relevées, mdp : tomcat*
 
-* [Module 3 : Europe](https://raw.githubusercontent.com/Tomcattt/tomcattt.github.io/MODULE_3_EUROPE.pdf)
+* [Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
 
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
