@@ -51,6 +51,7 @@
 * [Mind the Map](http://mindthemap.fr)
 * [Groupe d'études géopolitiques](http://gegeurope.org) *think tank de l'Ens*
 * [La lettre du Lundi](https://lldl.eu/fr/home/) *newsletter de ce think tank*
+* [Fondation pour la Recherche Stratégique] (https://www.frstrategie.org/) *sur les questions de sécurité et de défense*
 
 
 ## :us: **Anglais**
