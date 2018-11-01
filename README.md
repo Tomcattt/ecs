@@ -57,6 +57,9 @@
 ## :us: **Anglais**
 :link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
 
+### **Annales**
+* [ECRICOME vocabulaire](https://tomcattt.github.io/annales)
+
 *lecture régulière*
 * [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
@@ -126,8 +129,11 @@
 - [X] TP 9 : Estimation ponctuelle et par intervalle
 
 ## :it: **Italien**
+
+### **Annales**
+* [ECRICOME vocabulaire](https://tomcattt.github.io/annales)
 * [Italangue](http://www.italangue.com)
-* [Ray Play Radio](https://www.raiplayradio.it)
+Pour s'entrainer : prendre les annales ECRCOME LV2 (anglais ou italien) apprendre le vocabulaire correspondant (dans ECRICOME VOCABULAIRE) et appliquer les règles de grammaire.
 
 ## :computer: Outils & LaTeX
 * [Microtypography (améliorer le texte justifié)](https://www.wikiwand.com/en/Microtypography)
