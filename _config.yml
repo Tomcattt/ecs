@@ -1,2 +1,4 @@
 plugins:
   - jemoji
+  - jekyll-menus
+
