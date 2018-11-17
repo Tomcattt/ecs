@@ -60,8 +60,7 @@
 
 ## :us: **Anglais**
 ### **Annales**
-:link:&nbsp;[ECRICOME vocabulaire](https://tomcattt.github.io/annales_langues)
-
+:link:&nbsp;[ECRICOME vocabulaire](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/annales_langues)
 
 *lecture régulière*
 * [MTR](https://www.technologyreview.com/the-download/)
@@ -133,7 +132,7 @@ En coours...
 ## :it: **Italien**
 
 ### **Annales**
-* [ECRICOME vocabulaire](https://tomcattt.github.io/annales)
+* [ECRICOME vocabulaire](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/annales_langues)
 * [Italangue](http://www.italangue.com)
 Pour s'entrainer : prendre les annales ECRCOME LV2 (anglais ou italien) apprendre le vocabulaire correspondant (dans ECRICOME VOCABULAIRE) et appliquer les règles de grammaire.
 
