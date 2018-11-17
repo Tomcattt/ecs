@@ -2,12 +2,12 @@
 :link:&nbsp; = fiches perso
 
 ## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-### Cours
-* [:link:&nbsp;Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
-* [:link:&nbsp;Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
+### :link:&nbsp;Cours
+* [Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
+* [Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
 
-### Bundle Documents
-* [:link:&nbsp;Module 3 : Afrique](https://docs.google.com/presentation/d/1IpRB2HN1dYIcxTmMyqQhBFU4jvq-Svb7Luzs1P4ZvvI/)
+### :link:&nbsp;Bundle Documents
+* [Module 3 : Afrique](https://docs.google.com/presentation/d/1IpRB2HN1dYIcxTmMyqQhBFU4jvq-Svb7Luzs1P4ZvvI/)
 
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
