@@ -1,16 +1,16 @@
 # :mortar_board: **ECS Quentin C.**
 :link:&nbsp; = fiches perso
 
-## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
-[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
-:link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Quelques notes et fonds de cartes, chargement parfois un peu long, bug avec safari*
+## Cours
+* [:link:&nbsp;Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
+* [:link:&nbsp;Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
 
-* [Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
-* [Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
+## Bundle Documents Féfé
+* [:link:&nbsp;Module 3 : Afrique](https://docs.google.com/presentation/d/1IpRB2HN1dYIcxTmMyqQhBFU4jvq-Svb7Luzs1P4ZvvI/)
 
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
-*Notes prises selon le cours et d'après quelques acticles, évènements à retenir, affichage graphique*
+*Notes prises à partir de cours, d'acticles :  évènements à retenir, affichage graphique*
 #### :link:&nbsp; Chapitres Continents
 * [Asie](https://tomcattt.github.io/asie)
 * [Amérique Latine](https://tomcattt.github.io/al)
@@ -38,7 +38,13 @@
 * [Mondialisation, inégalités et états](https://tomcattt.github.io/mond_et_ine)
 * [Frontières et Mondialisation](https://tomcattt.github.io/frontieres)
 
-:link:&nbsp;[__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression*
+:link:&nbsp;[__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression a5*
+
+
+## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
+[![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
+:link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Quelques notes et fonds de cartes, chargement parfois un peu long, bug avec safari*
+
 
 #### **Ressources**
 *dont je ne possède pas les droits*
@@ -58,10 +64,7 @@
 
 
 *lecture régulière*
-:link:&nbsp;[__Vocabulaire HIR__](https://tomcattt.github.io/main2.pdf) *Vocabulaire relevé à partir du dernier [HIR](http://hir.harvard.edu) __Spring 2018__*
-* [HIR](http://hir.harvard.edu)
 * [MTR](https://www.technologyreview.com/the-download/)
-* [The Economist](https://www.economist.com)
 * [The Economist Films](https://films.economist.com)
 * [The Daily Show](https://www.youtube.com/watch?v=LSg_qJYoa4s&list=PLLHHcQWkLnpolBvTPKsnSUiLiWAucX48o) *un must see*
 
@@ -74,9 +77,10 @@
 ## :performing_arts: **Culture Générale**
 :link:&nbsp;[__Timeline Philosophie__](https://tomcattt.github.io/philosophie) *bref récapitulatif non exhaustif de [ce superbe ouvrage](https://www.editions-ellipses.fr/product_info.php?products_id=6285)*
 
-#### La Mémoire
+## La Mémoire
+En coours...
 
-#### **Ressources**   
+### **Ressources**   
 *dont je ne possède pas les droits*
 * [Louis Marin](http://www.louismarin.fr/spip.php?article25)
 * [Érudit](https://www.erudit.org/fr/)
