@@ -1,11 +1,12 @@
 # :mortar_board: **ECS Quentin C.**
 :link:&nbsp; = fiches perso
 
-## Cours
+## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
+### Cours
 * [:link:&nbsp;Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
 * [:link:&nbsp;Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
 
-## Bundle Documents Féfé
+### Bundle Documents
 * [:link:&nbsp;Module 3 : Afrique](https://docs.google.com/presentation/d/1IpRB2HN1dYIcxTmMyqQhBFU4jvq-Svb7Luzs1P4ZvvI/)
 
 ### Timelines
@@ -41,7 +42,6 @@
 :link:&nbsp;[__Timeline pour impression__](https://github.com/Tomcattt/Tomcattt.github.io/tree/master/print)   *Timeline précédentes optimisées pour l'impression a5*
 
 
-## :earth_asia: **Histoire Géographie Géopolitique du Monde Contemporain**
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_1.png)](https://realtimeboard.com/app/board/o9J_k0YICf0=/)
 :link:&nbsp;[__MappeMonde__](https://realtimeboard.com/app/board/o9J_k0YICf0=/)   *Quelques notes et fonds de cartes, chargement parfois un peu long, bug avec safari*
 
