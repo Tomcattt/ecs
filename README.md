@@ -100,10 +100,10 @@ En coours...
 - [x] Chapitre 3 : Rappels et compléments d'algèbre linéaire
 - [x] Chapitre 4 : Intégrales impropres
 - [x] Chapitre 5 : Matrices
-- [x] Chapitre 6 : Couples de variables aléatoires. Covariance
+- [ ] Chapitre 6 : Couples de variables aléatoires. Covariance
 - [x] Chapitre 7 : Valeurs propres, vecteurs propres
-- [x] Chapitre 8 : Variables aléatoires à densité
-- [x] Chapitre 9 : Produits scalaires, espaces euclidiens
+- [ ] Chapitre 8 : Variables aléatoires à densité
+- [ ] Chapitre 9 : Produits scalaires, espaces euclidiens
 - [x] Chapitre 10 : Diagonalisation
 - [x] Chapitre 11 : Vecteurs aléatoires
 - [ ] Chapitre 12 : Supplémentaire orthogonal
