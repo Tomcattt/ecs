@@ -102,7 +102,7 @@ En coours...
 - [x] Chapitre 5 : Matrices
 - [ ] Chapitre 6 : Couples de variables aléatoires. Covariance
 - [x] Chapitre 7 : Valeurs propres, vecteurs propres
-- [ ] Chapitre 8 : Variables aléatoires à densité
+- [x] Chapitre 8 : Variables aléatoires à densité
 - [ ] Chapitre 9 : Produits scalaires, espaces euclidiens
 - [x] Chapitre 10 : Diagonalisation
 - [x] Chapitre 11 : Vecteurs aléatoires
