@@ -5,7 +5,7 @@
 ### :link:&nbsp;Cours
 * [Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
 * [Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
-* [Atlas Autrement : le Japon](https://tomcattt.github.io/AUTREMENT_JAPON.pdf)
+* [Atlas Autrement : le Japon](https://github.com/Tomcattt/Tomcattt.github.io/raw/master/JAPON_AUTREMENT.pdf)
 
 ### :link:&nbsp;Bundle Documents
 * [Module 3 : Afrique](https://docs.google.com/presentation/d/1IpRB2HN1dYIcxTmMyqQhBFU4jvq-Svb7Luzs1P4ZvvI/)
