@@ -5,10 +5,14 @@
 ### :link:&nbsp;Cours
 * [Module 3 : Europe](https://tomcattt.github.io/MODULE_3_EUROPE.pdf)
 * [Module 3 : Afrique](https://tomcattt.github.io/MODULE_3_AFRIQUE.pdf)
-* [Atlas Autrement : le Japon](https://github.com/Tomcattt/Tomcattt.github.io/raw/master/JAPON_AUTREMENT.pdf)
 
-### :link:&nbsp;Bundle Documents
+### :link:&nbsp;Bundle Documents & Atlas
 * [Module 3 : Afrique](https://docs.google.com/presentation/d/1IpRB2HN1dYIcxTmMyqQhBFU4jvq-Svb7Luzs1P4ZvvI/)
+* [Module 4 : Chine (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/CHINE_AUTREMENT.pdf)
+* [Module 4 : Japon (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/JAPON_AUTREMENT.pdf)
+* [Module 4 : Inde (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/INDE_AUTREMENT.pdf)
+* [Module 4 : États-Unis (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/US_AUTREMENT.pdf) 
+
 
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
