@@ -11,8 +11,8 @@
 * [Module 4 : Chine (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/CHINE_AUTREMENT.pdf)
 * [Module 4 : Japon (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/JAPON_AUTREMENT.pdf)
 * [Module 4 : Inde (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/INDE_AUTREMENT.pdf)
-* [Module 4 : États-Unis (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/US_AUTREMENT.pdf) 
-
+* [Module 4 : Amérique Latine (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/AL_AUTREMENT.pdf) 
+* [Module 4 : États-Unis (Atlas)](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/US_AUTREMENT.pdf)
 
 ### Timelines
 [![Alt Description](https://raw.githubusercontent.com/Tomcattt/Tomcattt.github.io/master/vignette_2.png)](https://tomcattt.github.io/petrole_et_energie)
