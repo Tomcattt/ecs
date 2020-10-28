@@ -1,3 +1,4 @@
+# out of date: revision sheets for my preparatory class (ECS CPGE - 2017/2019)
 # :mortar_board: **ECS Quentin C.**
 :link:&nbsp; = fiches perso
 
